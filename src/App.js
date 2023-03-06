@@ -1,6 +1,10 @@
+import Header from "./components/Layouts/Header";
+
 function App(){
     return(
-        <h1>Opa Deu Certo</h1>
+        <>
+        <Header/>
+        </>
     )
 }
 
